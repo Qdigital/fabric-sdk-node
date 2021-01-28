@@ -27,7 +27,7 @@
 	"dependencies": {
 		"elliptic": "^6.5.3",
 		"fabric-protos": "file:../fabric-protos",
-		"js-sha3": "^0.7.0",
+		"js-sha3": "^0.8.0",
 		"jsrsasign": "^8.0.20",
 		"long": "^4.0.0",
 		"nconf": "^0.10.0",
