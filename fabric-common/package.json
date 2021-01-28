@@ -30,7 +30,7 @@
 		"js-sha3": "^0.7.0",
 		"jsrsasign": "^8.0.20",
 		"long": "^4.0.0",
-		"nconf": "^0.10.0",
+		"nconf": "^0.11.0",
 		"promise-settle": "^0.3.0",
 		"sjcl": "1.0.7",
 		"winston": "^2.4.0",
