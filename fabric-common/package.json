@@ -34,7 +34,7 @@
 		"nconf": "^0.11.2",
 		"promise-settle": "^0.3.0",
 		"sjcl": "^1.0.8",
-		"winston": "^2.4.5",
+		"winston": "^3.3.0",
 		"yn": "^4.0.0"
 	},
 	"optionalDependencies": {
