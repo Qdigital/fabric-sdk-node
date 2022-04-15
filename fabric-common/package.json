@@ -31,7 +31,7 @@
 		"js-sha3": "^0.8.0",
 		"jsrsasign": "^8.0.24",
 		"long": "^4.0.0",
-		"nconf": "^0.11.2",
+		"nconf": "^0.12.0",
 		"promise-settle": "^0.3.0",
 		"sjcl": "^1.0.8",
 		"winston": "^2.4.5",
